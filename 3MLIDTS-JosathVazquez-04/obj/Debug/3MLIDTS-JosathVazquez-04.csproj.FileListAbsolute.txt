@@ -1,0 +1,10 @@
+C:\Users\josathxd\source\repos\3MLIDTS-JosathVazquez-04\3MLIDTS-JosathVazquez-04\bin\Debug\3MLIDTS-JosathVazquez-04.exe.config
+C:\Users\josathxd\source\repos\3MLIDTS-JosathVazquez-04\3MLIDTS-JosathVazquez-04\bin\Debug\3MLIDTS-JosathVazquez-04.exe
+C:\Users\josathxd\source\repos\3MLIDTS-JosathVazquez-04\3MLIDTS-JosathVazquez-04\bin\Debug\3MLIDTS-JosathVazquez-04.pdb
+C:\Users\josathxd\source\repos\3MLIDTS-JosathVazquez-04\3MLIDTS-JosathVazquez-04\obj\Debug\3MLIDTS-JosathVazquez-04.csproj.AssemblyReference.cache
+C:\Users\josathxd\source\repos\3MLIDTS-JosathVazquez-04\3MLIDTS-JosathVazquez-04\obj\Debug\_3MLIDTS_JosathVazquez_04.lbTelefono.resources
+C:\Users\josathxd\source\repos\3MLIDTS-JosathVazquez-04\3MLIDTS-JosathVazquez-04\obj\Debug\_3MLIDTS_JosathVazquez_04.Properties.Resources.resources
+C:\Users\josathxd\source\repos\3MLIDTS-JosathVazquez-04\3MLIDTS-JosathVazquez-04\obj\Debug\3MLIDTS-JosathVazquez-04.csproj.GenerateResource.cache
+C:\Users\josathxd\source\repos\3MLIDTS-JosathVazquez-04\3MLIDTS-JosathVazquez-04\obj\Debug\3MLIDTS-JosathVazquez-04.csproj.CoreCompileInputs.cache
+C:\Users\josathxd\source\repos\3MLIDTS-JosathVazquez-04\3MLIDTS-JosathVazquez-04\obj\Debug\3MLIDTS-JosathVazquez-04.exe
+C:\Users\josathxd\source\repos\3MLIDTS-JosathVazquez-04\3MLIDTS-JosathVazquez-04\obj\Debug\3MLIDTS-JosathVazquez-04.pdb
